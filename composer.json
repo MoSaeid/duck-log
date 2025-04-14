@@ -1,5 +1,5 @@
 {
-    "name": "MoSaeid/duck-log",
+    "name": "mosaeid/duck-log",
     "description": "Simple console.log() style debugging for PHP",
     "type": "library",
     "license": "MIT",
