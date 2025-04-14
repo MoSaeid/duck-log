@@ -1,0 +1,12 @@
+{
+    "name": "MoSaeid/duck-log",
+    "description": "Simple console.log() style debugging for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DebugLogger\\": "src/"
+        }
+    },
+    "require": {}
+}
