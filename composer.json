@@ -7,8 +7,15 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "DebugLogger\\": "src/"
+            "DuckLog\\": "vendor/ducklog/duck-log/src/"
         }
     },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/mosaeid/duck-log"
+    }
+]
+
     "require": {}
 }
