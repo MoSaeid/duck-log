@@ -1,6 +1,8 @@
 {
     "name": "mosaeid/duck-log",
     "description": "Simple console.log() style debugging for PHP",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "type": "library",
     "license": "MIT",
     "autoload": {
